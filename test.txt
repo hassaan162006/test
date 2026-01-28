@@ -10,3 +10,4 @@ abc
 8
 9
 10
+new line from direct
