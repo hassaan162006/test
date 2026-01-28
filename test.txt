@@ -10,5 +10,4 @@ abc
 8
 9
 10
-new line from direct
-another new line from direct
+Removed line 
